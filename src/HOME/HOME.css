@@ -1,0 +1,16 @@
+.banner{
+    background-image: url(../assets/img/pizza.png);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+padding: 20%;
+}
+.html::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .html {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
